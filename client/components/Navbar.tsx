@@ -19,7 +19,7 @@ const Navbar = () => {
         <div className="flex gap-x-2">
           <div>
             <Button type="button" className="p-3" variant="ghost">
-              <Link href={"https://github.com/YugBhanushali/FileDrop"}>
+              <Link href={"https://github.com/khushal0944/FileDrop"}>
                 <GithubIcon size={18}/>
               </Link>
             </Button>
